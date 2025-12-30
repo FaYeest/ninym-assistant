@@ -1,6 +1,6 @@
 # 🌸 Ninym Assistant (Project Next-Gen Waifu)
 
-![Ninym Banner](https://via.placeholder.com/1200x300/ff99cc/ffffff?text=Ninym+Assistant+Banner)
+![Ninym Banner](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Danime%2Bbanner&ved=0CBUQjRxqFwoTCMDNi6aP5pEDFQAAAAAdAAAAABAH&opi=89978449)
 
 > **"I'm not just a chatbot, I'm your Digital Partner."**
 
