@@ -107,7 +107,7 @@ python reset_ninym.py
 
 ## 🤝 Contributing
 Project ini masih dalam tahap pengembangan aktif. Ide, PR, atau saran fitur sangat diterima!
-Jangan lupa kasih ⭐ kalau kamu suka Ninym!
+Jangan lupa kasih ⭐ kalau kamu suka Ninym! dah gitu aja tar update nya kalo udah punya banyak duit bisa upgrade hardware baru update lagi! heheheh
 
 ---
 *Created with ❤️ by Farras.*
