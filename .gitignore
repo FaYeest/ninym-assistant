@@ -1,0 +1,35 @@
+# General Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment Variables (CRITICAL)
+.env
+.env.local
+
+# Project Specific (Ninym)
+core/chroma_db/
+core/memory.json
+core/user_profile.json
+data/*.pdf
+data/*.docx
+
+# IDE / Editors
+.vscode/
+.idea/
+*.swp
+
+# OS Generated
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log

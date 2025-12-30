@@ -1,0 +1,27 @@
+# Core
+google-genai
+python-dotenv
+colorama
+
+# Search & Tools
+duckduckgo-search
+beautifulsoup4
+requests
+
+# RAG (Local Memory)
+chromadb
+sentence-transformers
+pypdf
+torch --index-url https://download.pytorch.org/whl/cu121 # Khusus NVIDIA GPU
+
+# Audio (STT & TTS)
+faster-whisper
+edge-tts
+pyaudio
+sounddevice
+numpy
+
+# Visual (VTube Studio)
+pyvts
+websockets
+aiohttp

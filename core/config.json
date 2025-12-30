@@ -1,0 +1,6 @@
+{
+    "llm_provider": "ollama",
+    "ollama_model": "mannix/llama3.1-8b-abliterated",
+    "groq_model": "llama-3.3-70b-versatile",
+    "temperature": 0.7
+}
