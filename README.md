@@ -1,4 +1,4 @@
-# 🌸 Ninym Assistant (Project Next-Gen Waifu)
+# 🌸 Ninym Assistant
 
 ![Ninym Banner](https://as1.ftcdn.net/v2/jpg/07/32/10/96/1000_F_732109600_WAk7nGlLh6TMxv6KX7QnOifX4ZWx1Ovz.jpg)
 
